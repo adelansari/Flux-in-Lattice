@@ -1,7 +1,7 @@
 # Flux-in-Lattice
 Solving non-homogenous linear system using the following methods:
 1. Triangular Factorization Method
-2. Gaussian Eliminatoin Method
+2. Gaussian Elimination Method
 3. Jacobi Iterative method
 4. Gauss-Seidel Iterative Method
 5. Successive Relaxation Method
@@ -9,7 +9,7 @@ Solving non-homogenous linear system using the following methods:
 The code "project.m" will perform the following tasks:
 1. Ask the user to specify the length of the region or mesh size.
 2. Specify the number of divisions or number of meshes.
-3. Enter the macroscopic absorbtion cross section.
+3. Enter the macroscopic absorption cross section.
 4. Enter the Diffusion coefficient.
 5. Entering the flux values.
 6. Displaying the flux coefficients in Matrix form.
